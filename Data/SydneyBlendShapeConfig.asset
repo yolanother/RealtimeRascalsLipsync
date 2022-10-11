@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 712893b4f2424e8e8d27258d8770bd88, type: 3}
+  m_Name: SydneyBlendShapeConfig
+  m_EditorClassIdentifier: 
+  blendShapes:
+  - jawForward
+  - jawOpen
+  - TH
+  - DD
+  - kk
+  - CH
+  - SS
+  - nn
+  - RR
+  - aa
+  - E
+  - I
+  - O
+  - U
+  - blinkLeft
+  - lookDownLeft
+  - lookInLeft
+  - lookOutLeft
+  - lookUpLeft
+  - squintLeft
+  - wideLeft
+  - blinkRight
+  - lookDownRight
+  - lookInRight
+  - lookOutRight
+  - lookUpRight
+  - squintRight
+  - wideRight
+  - jawLeft
+  - jawRIght
+  - mouthClose
+  - mouthFunnel
+  - mouthPucker
+  - mouthLeft
+  - mouthRight
+  - mouthSmileLeft
+  - mouthSmileRight
+  - mouthFrownLeft
+  - mouthFrownRight
+  - mouthDimpleLeft
+  - mouthDimpleRight
+  - mouthStretchLeft
+  - mouthStretchRight
+  - mouthRollLower
+  - mouthRollUpper
+  - mouthShrugLower
+  - mouthShrugUpper
+  - mouthPressLeft
+  - mouthPressRight
+  - mouthLowerDownLeft
+  - mouthLowerDownRight
+  - mouthUpperUpLeft
+  - mouthUpperUpRight
+  - browDownLeft
+  - browDownRight
+  - browInnerUp
+  - browOuterUpLeft
+  - browOuterUpRight
+  - cheekPuff
+  - cheekSquintLeft
+  - cheekSquintRight
+  - noseSneerLeft
+  - noseSneerRight
+  - sil
+  - PP
+  - FF
+  - tongueOut

@@ -1,7 +1,12 @@
 {
-    "name": "",
+    "name": "DoubTech.RealtimeRascals.Editor",
     "rootNamespace": "",
-    "includePlatforms": [],
+    "references": [
+        "GUID:49eed86051dfcb545a2d0e4966c317c2"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
